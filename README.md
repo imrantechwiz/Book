@@ -1,5 +1,5 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-=======
+
 # Book with Reminders
 
 # Installation 
@@ -35,18 +35,6 @@ php artisan serve
 http://localhost:8000
 ````
 
-### Demo
-<img src="https://i.ibb.co/CQjWFrP/Demo-CRUD-Application.png" alt="Demo-CRUD-Application" border="0">
-
-#### Create Task Page
-<img src="https://i.ibb.co/LJCvKKk/Create-Task-Page.png" alt="Create-Task-Page" border="0">
-
-#### Delete Task Page
-<img src="https://i.ibb.co/RCCkpT7/Delete-task.png" alt="Delete-task" border="0">
-
-
-#### Edit Task Page
-<img src="https://i.ibb.co/ssDy296/Edit-task.png" alt="Edit-task" border="0">
 
 
 

@@ -6,7 +6,7 @@
 
 1. Clone Project
 ````sh
-git clone https://github.com/ManiruzzamanAkash/Laravel-Simple-CRUD-App.git
+git clone https://github.com/imrantechwiz/Book.git
 ````
 2. Composer install
 ````sh
@@ -24,7 +24,7 @@ DB_PASSWORD=
 ```
 5. Go to the project - 
 ```sh
-cd Laravel-Simple-CRUD-App
+cd Book
 ```
 6. Run Project inside that directory - 
 ````sh
